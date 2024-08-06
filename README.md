@@ -6,7 +6,8 @@
 ホストのアプリケーションからステータスを取得する代表的な例を紹介する。
 各取得方法に長短があるので、見極めた上で運用に適したものを利用すること。
 
-[参考 Zebra プリンタからRFID履歴/プリンタステータスを取得するコード例 C#編](https://github.com/shimauma-giken/Zebra-Printer_C-Sharp_Get-Printer-Status_RFID-Logs )
+[参考: Zebra プリンタからRFID履歴/プリンタステータスを取得するコード例 C#編](https://github.com/shimauma-giken/Zebra-Printer_C-Sharp_Get-Printer-Status_RFID-Logs )
+[参考: Git-Hub: Android 11 向けZebraプリンタ用サンプルコード](https://github.com/shimauma-giken/Zebra-Printer_Android-Sample-Code_Print_Pause_Cancel)
 
 </br>
 
@@ -62,7 +63,6 @@ PrinterStatus Classより、詳細な情報を取得可能。
 
 [Techdocs: Class SGD](https://techdocs.zebra.com/link-os/2-14/pc/content/com/zebra/sdk/printer/sgd)
 
-[Git-Hub: Android 11 向けZebraプリンタ用サンプルコード](https://github.com/shimauma-giken/Zebra-Printer_Android-Sample-Code_Print_Pause_Cancel)
 
 ```java
 try {
